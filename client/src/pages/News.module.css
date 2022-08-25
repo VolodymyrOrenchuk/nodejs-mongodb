@@ -1,0 +1,15 @@
+.boxContainer{
+    width: 500px;
+    /*border: 2px solid darkblue;*/
+    border-radius: 20px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.newsContainer {
+    border: 2px solid blue;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #a2b6e5;
+}
