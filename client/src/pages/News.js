@@ -10,7 +10,6 @@ const News = () => {
             .then(res => setNews(res.data))
             .catch(err => console.log(err));
     }, [])
-    console.log(news)
     return (
         <div className={classes.boxContainer}>
             {news.map((item, index) => (
